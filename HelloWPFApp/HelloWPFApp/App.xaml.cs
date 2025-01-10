@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Practice_WPF1
+namespace HelloWPFApp
 {
     /// <summary>
     /// Interaction logic for App.xaml

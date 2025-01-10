@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Practice_WPF1
+namespace HelloWPFApp
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
