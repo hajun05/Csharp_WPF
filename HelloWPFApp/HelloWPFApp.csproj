@@ -8,4 +8,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="ExpenseIt">
+      <HintPath>..\ExpenseIt\bin\Debug\net8.0-windows\ExpenseIt.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
