@@ -1,4 +1,5 @@
-﻿<Application x:Class="HelloWPFApp.App"
+﻿<!--시작 윈도우를 결정한는 코드. StartipUri를 실행하려는 윈도우 페이지로 설정-->
+<Application x:Class="HelloWPFApp.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:local="clr-namespace:HelloWPFApp"
